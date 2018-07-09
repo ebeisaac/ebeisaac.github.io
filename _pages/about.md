@@ -19,4 +19,4 @@ Machine learning, biometrics, gait analysis, and data science.
 
 ### Contact
 
-![Email](/images/ieeem.jpg)
+<img src="/images/ieeem.jpg" alt="ebeisaac[(at)]ieee[(dot)]org" width="100px"/>
