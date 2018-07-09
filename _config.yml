@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Ebenezer R.H.P. Isaac"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Ebe-bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral Research Fellow, IIT Madras"
   location         : "Chennai"
   email            : ebeisaac[at]ieee[dot]org
@@ -269,3 +269,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
