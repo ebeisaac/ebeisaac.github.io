@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/Jungfrau_mountains.jpg"
+  image: "/images/Jungfrau1.jpg"
 ---
 
 Ebenezer R. H. P. Isaac a Postdoctoral Research Fellow in
